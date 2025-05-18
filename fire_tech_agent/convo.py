@@ -10,7 +10,7 @@ app = FastAPI()
 DB_CONFIG = {
     "dbname": "ollama_conversations",
     "user": "ollama_user",
-    "password": "MRKSophie0320$",  # Replace with your actual password
+    "password": "MRKSophie0320$",  # Replace with Real password
     "host": "localhost",
     "port": "5432"
 }
